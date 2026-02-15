@@ -94,3 +94,4 @@ Long-Term Stability
 Built by developers.  
 For serious server owners.  
 Since 2020.
+![qbcore2](https://github.com/user-attachments/assets/bc9818e2-344b-4bd0-906d-0f5a214b00c3)
