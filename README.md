@@ -1,5 +1,5 @@
 # 👑 FiveM QBCore Complete Supreme All-In-One Server Package  
-# 💎 Official QB Core Store V10.1
+# 💎 Official QBCore Store V10.1
 
 🎬 **Preview:** https://www.youtube.com/watch?v=TZ7J2Df0V6w
 
